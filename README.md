@@ -22,4 +22,4 @@ The original dataset is proprietary. This repository uses anonymized/synthetic d
 ## How to Run
 ```bash
 pip install -r requirements.txt
-jupyter notebook "insurance_sales_distribution_analysis.ipynb"
+jupyter notebook "Insurance Policy Sales Analysis.ipynb"
