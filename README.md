@@ -1,5 +1,4 @@
-# Insurance Sales Distribution Analysis (Anonymized)
-
+# insurance-sales-distribution-analysis
 ## Overview
 This project analyzes insurance sales to identify:
 - which companies generate the highest sales,
