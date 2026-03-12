@@ -40,7 +40,7 @@ The dataset includes fields such as:
 - Customer_ID
 
 ## Data Note
-The original dataset is proprietary. This repository uses anonymized or sample data to demonstrate the analysis workflow.
+The original dataset is proprietary. This repository uses anonymized or sample data to demonstrate the analysis workflow
 
 ## Tools Used
 - Python
